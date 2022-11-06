@@ -5,7 +5,11 @@
 Fechas:
 
 7 nov: Carga datasets
+
 14 nov: Análisis descriptivo
+
 21 nov: Modelos de regresión
+
 28 nov: Dash avanzado
+
 5 dic : Entrega final
